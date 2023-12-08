@@ -50,9 +50,9 @@ Nesse projeto Investigei o recorte de gênero, Filtração os tipos de Obesidade
 
 
 <footer>
-<center>
-    <p  > <strong> <a  style = color: purple; class="s2">❤</a> Desenvolvido pela aluna Márcia Tadakuma {Reprograma} <a style = color: purple;  class="s2">❤</a>  | © Copyright 2023 </strong></p >
-    <center>
+
+ <p  align="center"> <strong> <a  style = color: purple; class="s2">❤</a> Desenvolvido pela aluna Márcia Tadakuma {Reprograma} <a style = color: purple;  class="s2">❤</a>  | ©  2023 </strong></p >
+ 
 </footer>
 
 
