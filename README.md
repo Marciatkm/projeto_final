@@ -3,9 +3,9 @@
   <img src="obsidade.jpg" alt="logo reprograma" width="500">
 </h1>
 
-<center>
-<h1 style=color:pink;> Projeto Final Turma On26 Python <h1>
-<center>
+
+<h1 align="center" style=color:pink;> Projeto Final Turma On26 Python <h1>
+
 
 ### Obesidade em Perspectiva: Explorando Causas e Soluções por meios de dados.
 
@@ -23,6 +23,15 @@ Ao considerarmos as bases de dados sobre obesidade, é importante notar que indi
 
 Nesse projeto Investigei o recorte de gênero, Filtração os tipos de Obesidades com o índice de massa corporal (IMC) acima de 30 e a prática de atividade física, Analise da faixa etária em adolecentes.
 
+### Ferramentas 
+
+ Análise exploratória adotará o uso da linguagem de programação `Python`, para manipulação dos dados (limpeza e tratamento dos dados, análise exploratória dos dados) as bibliotecas `Pandas` e `Matplotlib`. Para análise visual usaremos a ferramenta `Tableau`,
+<br>
+
+📌 Este projeto está com visualizações públicas no Tableau. Você pode acessar no link [Tableau](https://public.tableau.com/authoring/ProjetoFinal_17017391304910/).
+
+<br>
+
 ### Fontes:
 
  Base 1 - https://www.kaggle.com/datasets/sujithmandala/obesity-classification-dataset
@@ -33,14 +42,6 @@ Nesse projeto Investigei o recorte de gênero, Filtração os tipos de Obesidade
 
 
 
-### Ferramentas 
-
- Análise exploratória adotará o uso da linguagem de programação `Python`, para manipulação dos dados (limpeza e tratamento dos dados, análise exploratória dos dados) as bibliotecas `Pandas` e `Matplotlib`. Para análise visual usaremos a ferramenta `Tableau`,
-<br>
-
-📌 Este projeto está com visualizações públicas no Tableau. Você pode acessar no link [Tableau](https://public.tableau.com/authoring/ProjetoFinal_17017391304910/).
-
-<br>
 
 
 
