@@ -28,7 +28,7 @@ Nesse projeto investiguei o gênero, filtração dos tipos de obesidades com o �
  Análise exploratória adotará o uso da linguagem de programação `Python`, para manipulação dos dados (limpeza e tratamento dos dados, análise exploratória dos dados) as bibliotecas `Pandas` e `Matplotlib`. Para análise visual usaremos a ferramenta `Tableau`,
 <br>
 
-📌 Este projeto está com visualizações públicas no Tableau. Você pode acessar no link [Tableau](https://public.tableau.com/authoring/ProjetoFinal_17017391304910/).
+📌 Este projeto está com visualizações públicas no Tableau. Você pode acessar no link [Tableau]https://public.tableau.com/app/profile/marcia.tadakuma/vizzes).
 
 <br>
 
