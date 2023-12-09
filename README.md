@@ -18,10 +18,10 @@ O estilo de vida moderno, caracterizado por dietas pouco saudáveis e baixa ativ
 
 Pequenas mudanças no dia a dia podem fazer grande diferença no controle do peso. Incluir mais frutas e vegetais na alimentação, praticar caminhadas regulares e optar por água em vez de refrigerantes são passos simples que podem contribuir para a redução da obesidade. Controlar as porções de comida e garantir um sono adequado são outras ações simples que podem promover um estilo de vida mais saudável e auxiliar no controle do peso, promovendo a saúde e o bem-estar em âmbito global.
 
-Ao considerarmos as bases de dados sobre obesidade, é importante notar que indivíduos obesos frequentemente enfrentam enfrentam preconceitos e e discriminação sociais,esses comportamentos podem resultar em efeitos psicológicos adversos, como baixa autoestima,oportunidades de emprego,vida afetiva, depressão e ansiedade.
+Ao considerarmos as bases de dados sobre obesidade, é importante notar que indivíduos obesos frequentemente enfrentam preconceitos e discriminação sociais,esses comportamentos podem resultar em efeitos psicológicos adversos, como baixa autoestima,oportunidades de emprego,vida afetiva, depressão e ansiedade.
 
 
-Nesse projeto Investigei o recorte de gênero, Filtração os tipos de Obesidades com o índice de massa corporal (IMC) acima de 30 e a prática de atividade física, Analise da faixa etária em adolecentes.
+Nesse projeto investiguei o gênero, filtração dos tipos de obesidades com o índice de massa corporal (IMC) acima de 30 e a prática de atividade física, analise da faixa etária em adolecentes.
 
 ### Ferramentas 
 
