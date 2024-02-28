@@ -7,7 +7,7 @@
 <h1 align="center" style=color:pink;> Projeto Final Turma On26 Python <h1>
 
 
-### Obesidade o e o seu impacto sócial
+### Obesidade  e o seu impacto sócial
 
 Neste projeto, exploramos a relação entre obesidade e estilo de vida. A obesidade, um desafio global crescente, refere-se ao excesso de gordura corporal e está intimamente ligada a complicações de saúde como diabetes, problemas cardíacos, hipertensão e certos tipos de câncer. Indivíduos que lidam com a obesidade muitas vezes enfrentam preconceitos e e discriminação sociais o famoso Bullying, afetando sua autoestima, saúde mental e oportunidades de emprego.
 
